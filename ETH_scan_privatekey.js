@@ -1,5 +1,5 @@
 const Web3 = require('web3');
-const infura_key = 'fea7b9a1e1284778a1b344ba32a4ba8a';
+const infura_key = 'b32c5d9bfc4f45dcb225e18e5e21e96c';
 const web3 = new Web3('https://mainnet.infura.io/v3/'+infura_key);
 const fs = require('fs');
 
